@@ -25,4 +25,4 @@ Follow these steps to get the project up and running on your local machine.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/react-news-website.git
+   git clone https://github.com/TusharIndia/Newsapp.git
