@@ -1,0 +1,33 @@
+{
+    "api-key": "4bf1d7344ccb483587e7dcdbb90ccb12",
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+    {
+        "source": {
+            "id": "google-news-in",
+            "name": "Google News (India)"
+        },
+        "author": "The Hindu",
+        "title": "Uttarkashi tunnel collapse LIVE updates | PM Modi calls CM Dhami, takes stock of rescue ops - The Hindu",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy50aGVoaW5kdS5jb20vbmV3cy9uYXRpb25hbC9vdGhlci1zdGF0ZXMvdXR0YXJrYXNoaS11dHRhcmFraGFuZC10dW5uZWwtd29ya2Vycy1yZXNjdWUtbGl2ZS11cGRhdGVzLW5vdi0yMy0yMDIzL2FydGljbGU2NzU2NDM4MS5lY2XSAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-11-23T09:16:51+00:00",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "google-news-in",
+            "name": "Google News (India)"
+        },
+        "author": "Hindustan Times",
+        "title": "Mahua Moitra row impact: Protocols for access to Digital Sansad changed - Hindustan Times",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9sb2stc2FiaGEtc2VjcmV0YXJpYXQtY2hhbmdlcy1wcm90b2NvbHMtZm9yLWFjY2Vzcy10by1kaWdpdGFsLXNhbnNhZC0xMDE3MDA3MTQ5OTk5MDkuaHRtbNIBhwFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9sb2stc2FiaGEtc2VjcmV0YXJpYXQtY2hhbmdlcy1wcm90b2NvbHMtZm9yLWFjY2Vzcy10by1kaWdpdGFsLXNhbnNhZC0xMDE3MDA3MTQ5OTk5MDktYW1wLmh0bWw?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-11-23T04:49:59+00:00",
+        "content": null
+    }
+    ]
+    }
